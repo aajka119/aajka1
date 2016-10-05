@@ -7,7 +7,7 @@
 .img1
 {
     border: 0px solid #f00;
-    position: relative;
+    position: center;
     z-index: 2;
 }
 
